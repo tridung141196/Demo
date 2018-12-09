@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name ESP8266)(type Legacy)(uri /home/dung/Desktop/kicad-ESP8266/ESP8266.lib)(options "")(descr ""))
+  (lib (name hi-link)(type Legacy)(uri /home/dung/Desktop/iotmaker-pcb-lib/hi-link.lib)(options "")(descr ""))
+  (lib (name hlw8012)(type Legacy)(uri /home/dung/Desktop/iotmaker-pcb-lib/hlw8012.lib)(options "")(descr ""))
+  (lib (name w_device)(type Legacy)(uri /home/dung/Desktop/iotmaker-pcb-lib/w_device.lib)(options "")(descr ""))
+  (lib (name Transistor)(type Legacy)(uri /home/dung/Desktop/iotmaker-pcb-lib/Transistor.lib)(options "")(descr ""))
+  (lib (name Relay_dung)(type Legacy)(uri ${KIPRJMOD}/Relay.lib)(options "")(descr ""))
+)

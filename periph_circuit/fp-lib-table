@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name MountingHoles)(type KiCad)(uri /home/dung/Desktop/iotmaker-pcb-lib/footprints/MountingHoles.pretty)(options "")(descr ""))
+  (lib (name Connector_Coaxial)(type KiCad)(uri /home/dung/Desktop/iotmaker-pcb-lib/footprints/Connector_Coaxial.pretty)(options "")(descr ""))
+  (lib (name Relays_THT)(type KiCad)(uri /home/dung/Desktop/iotmaker-pcb-lib/footprints/Relays_THT.pretty)(options "")(descr ""))
+  (lib (name Transformers_THT)(type KiCad)(uri /home/dung/Desktop/iotmaker-pcb-lib/footprints/Transformers_THT)(options "")(descr ""))
+  (lib (name ESP8266)(type KiCad)(uri /home/dung/Desktop/kicad-ESP8266/ESP8266.pretty)(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri /home/dung/Desktop/iotmaker-pcb-lib/footprints)(options "")(descr ""))
+)
